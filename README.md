@@ -4,6 +4,7 @@
 NoteQuote is a platform where users can share and discover inspiring quotes and helpful notes with their friends. Whether it's a motivational quote, a thought-provoking note, or something you’d like to share with a friend, NoteQuote allows you to connect through words in a simple yet powerful way. This project was developed with a friend's idea and it offers both a dynamic front-end with React and TailwindCSS and a fully functional back-end with Node.js, Express and Supabase to bring a seamless experience to users.
 
 ### Here you can briefly see how it is: <br>
+![unnamed](https://github.com/user-attachments/assets/aad955e5-fa66-4356-97cf-3323b383ffeb)
 
 
 ## 👨🏼‍💻 Project Setup & Start Guide
