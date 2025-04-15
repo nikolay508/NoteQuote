@@ -11,7 +11,7 @@ NoteQuote is a platform where users can share and discover inspiring quotes and 
 
 This guide explains how to start both the server and the client of the project so it can be ready for use.
 
-### 🤖 Fist: Installation and start the server side:
+### 🤖 First: Installation and start the server side:
 
 1. Install dependencies for the REST-API server:
 
