@@ -28,5 +28,3 @@ NoteQuote is a platform where users can share and discover inspiring quotes and 
 
  ✓ Starting...
  ✓ Ready in 4.7s
-
-Ensure the REST API server is running before starting the SPA to enable proper integration.
